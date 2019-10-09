@@ -11,4 +11,4 @@ Static Page Live at https://iampavangandhi.github.io/Goud/
 
 *For Database :- MongoDB using mongoose.*
 
-*And Some API :- For Login & Payment Gateway.*
+*And Some API :- For Login(Passport) & Payment Gateway.*
