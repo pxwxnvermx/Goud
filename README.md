@@ -1,6 +1,8 @@
 # Goud
 ## Virtual Adoption System
 
+Static Page Live at https://iampavangandhi.github.io/Goud/
+
 ### WebApp TechStack
 
 *For Front-end :- Ejs(HTML5), CSS3, Vanilla JavaScript, Bootstrap (for responsiveness and styling).*
