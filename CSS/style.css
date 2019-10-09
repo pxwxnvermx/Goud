@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat|Nunito|Open+Sans|Roboto&display=swap');
+
+/* Global Fonts and Colors */
+:root{
+	/* Fonts */
+	--Roboto: 'Roboto', sans-serif;
+	--Nunito: 'Nunito', sans-serif;
+	--Lato: 'Lato', sans-serif;
+	--Montserrat: 'Montserrat', sans-serif;
+	--OpenSans: 'Open Sans', sans-serif;
+  
+ 	/* Colors */
+ 	--primary: ;
+ 	--secondary: ;
+  	--bggradient: ;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+html,body{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
